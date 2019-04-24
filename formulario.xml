@@ -3,91 +3,91 @@
 <questions>
 	<question>
 		<type>text</type>
-		<title>¿Qué tiene que hacer Bestia para romper el hechizo y volver a ser un príncipe? : (Pelicula: LA BELLA Y LA BESTIA)?</title>
-		<answer>amar a una chica</answer>
+		<title>¿A qué marca pertenece el 911?</title>
+		<answer>Porsche</answer>
 	</question>
 	<question>
 		<type>text</type>
-		<title>¿Quién presenta la historia de Pinocho? :(Pelicula: PINOCHO)</title>
-		<answer>pepito grillo</answer>
+		<title>¿Qué piloto ha participado en las 24 Horas de Le Mans, en el Indy 500, en el Nascar a demas de ser bicampeón de F1? </title>
+		<answer>Jim Clark</answer>
 	</question>
 	<question>
 		<type>select</type>
-		<title>¿Cómo se llama la ciudad en la que se sitúa la película Aladdín? : (Pelicula: ALADDÍN)</title>
-		<option>Surat</option>
-		<option>Aurangabad</option>
-		<option>Agrabah</option>
-		<option>Ashta</option>
+		<title>¿Quién fue el fundador de la marca Ferrari?</title>
+		<option>Dino Ferrari</option>
+		<option>Enzo Ferrari</option>
+		<option>Piero Ferrari</option>
+		<option>Ferruccio Lamborghini</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>¿En que circuito murió Jim Clark?</title>
+		<option>Hockenheim</option>
+		<option>Indianapolis</option>
+		<option>Le Mans</option>
+		<option>Nürburgring</option>
+    <option>Silverstone</option>
+		<answer>1</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>¿El coche de serie más rápido del mundo que récord tiene? </title>
+		<option>400 km/h</option>
+		<option>380 km/h</option>
+		<option>447,2 kmh/</option>
+		<option>502,03 km/h</option>
+    <option>457 km/h</option>
 		<answer>2</answer>
-	</question>
-	<question>
-		<type>select</type>
-		<title>¿Sobre que ciudad vuelan Peter Pan y los hijos de Darling? : (Pelicula: PETER PAN)</title>
-		<option>Perú</option>
-		<option>Venecia</option>
-		<option>Barcelona</option>
-		<option>Paris</option>
-    <option>Londres</option>
 		<answer>4</answer>
 	</question>
 	<question>
 		<type>multiple</type>
-		<title>¿Cúal es la profesion de Frollo? (Pelicula: EL JOROBADO DE NOTRE DAM) </title>
-		<option>Juez</option>
-		<option>Músico</option>
-		<option>Buffón</option>
-		<option>Criado</option>
-    <option>Juez</option>
+		<title>¿Cuáles de estos coches son los nominados a mejor coche ecológico del año?</title>
+		<option>Jaguar I-Pace</option>
+		<option>Aston Martin Vantage</option>
+		<option>Volkswagen Touareg</option>
+		<option>Audi A7</option>
+    <option>Audi e-tron</option>
 		<answer>0</answer>
 		<answer>4</answer>
 	</question>
 	<question>
-		<type>multiple</type>
-		<title>¿Cuál es el único de los enanitos que tiene los ojos azules? : (Pelicula: BLANCANIEVES)</title>
-		<option>Gruñón</option>
-		<option>Mudito</option>
-		<option>Ninguno los tiene</option>
-		<option>Dromilón</option>
-    <option>El más pequeñito</option>
+		<type>checkbox</type>
+		<title>¿Cuales de estas marcas pertenecen al grupo Volkswagen?</title>
+		<option>Audi</option>
+		<option>Porsche</option>
+		<option>Ford</option>
+		<option>Jeep</option>
+		<answer>0</answer>
 		<answer>1</answer>
-		<answer>4</answer>
 	</question>
 	<question>
 		<type>checkbox</type>
-		<title>¿De qué colores son las partes de la armadura de Bart el Negro que no son negras? : (Pelicula: EL REY ARTURO</title>
-		<option>Verdes</option>
-		<option>Rojas</option>
-		<option>Negras</option>
-		<option>Azules</option>
-		<answer>0</answer>
-		<answer>2</answer>
-	</question>
-	<question>
-		<type>checkbox</type>
-		<title>¿Qué edad tiene Andy en la primera pelicula?(Pelicula: TOY STORY)</title>
-		<option>menos de 10</option>
-		<option>10</option>
-		<option>20</option>
-		<option>18</option>
-		<answer>0</answer>
+		<title>¿Cuántas unidades del Porsche Macan se han comercializado en 2018?</title>
+		<option>menos de 10.000 unidades comercializadas.</option>
+		<option>97.202 unidades comercializadas.</option>
+		<option>21.012 unidades comercializadas.</option>
+		<option>más de 90.000 unidades comercializadas</option>
 		<answer>1</answer>
+		<answer>3</answer>
 	</question>
 	<question >
 		<type>radio</type>
-		<title>¿Cómo se llama el vecino de Andy?(Pelicula: TOY STORY)</title>
-		<option>Sid</option>
-		<option>Shit</option>
-		<option>Andy</option>
-		<option>La hermana de Andy</option>
+		<title>¿Qué coche nuevo es el más caro del mundo a día de hoy?</title>
+		<option>La voiture noire</option>
+		<option>Senna</option>
+		<option>Monza SP2</option>
+		<option>Sesto elemento</option>
 		<answer>0</answer>
 	</question>
 	<question>
 		<type>radio</type>
-		<title>¿Qué hace tía Sara a Dama cuando cree que ha atacado a sus gatos? (Pelicula: LA DAMA Y EL VAGABUNDO)</title>
-		<option>La encierra en la caseta del jardín</option>
-		<option>Le pega con un periódico</option>
-		<option>Le pone un bozal</option>
-		<option>Llama a un domador de perros</option>
-		<answer>2</answer>
+		<title>¿Mansory es ...?</title>
+		<option>Un preparador de lujo</option>
+		<option>Una marca de hipercoches</option>
+		<option>Una marca de turbos</option>
+		<option>Una carrera que se realiza en Alemania</option>
+		<answer>0</answer>
 	</question>
 </questions>
